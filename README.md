@@ -1,5 +1,3 @@
 - Hi, I’m @iain-burge
-- I’m interested in linux, game development,  machine learning, cognitive science, natural language processing
-- I’m currently learning vim, basic linux, unity/gamemaker, basic OpenCV, intermediate python
-- I’m looking to collaborate on nothing for now, I'm focusing on personal projects
-- How to reach me: iain11burge@gmail.com - I don't check this email often, so you may have to send stuff a few times.
+- I’m a researcher in quantum algorithms and explainable AI
+- You can reach me at my linkedin here: https://www.linkedin.com/in/iainburge/
